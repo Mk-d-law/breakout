@@ -52,8 +52,8 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory of the project and add your API keys.
 
-SERPAPI_KEY=your_serpapi_key_here
-GROQAI_KEY=your_groqapi_key_here
+SERPAPI_KEY=your_serpapi_key_here.
+GROQAI_KEY=your_groqapi_key_here.
 
 ## Running the Application
 

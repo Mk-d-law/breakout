@@ -4,7 +4,7 @@ This project is an **Iterative AI Web Scraping Tool** that allows you to upload 
 
 ## Features
 
-- Upload a CSV file with data.
+- Upload a CSV file with data. 
 - Select a column and dynamically create queries based on it.
 - Perform web searches using the **SERP API**.
 - Process and refine failed queries automatically.
@@ -52,8 +52,8 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory of the project and add your API keys.
 
-SERPAPI_KEY=your_serpapi_key_here.
-GROQAI_KEY=your_groqapi_key_here.
+- `SERPAPI_KEY=your_serpapi_key_here`
+- `GROQAI_KEY=your_groqapi_key_here`
 
 ## Running the Application
 
